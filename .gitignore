@@ -1,0 +1,5 @@
+**/.classpath
+**/.project
+**/camunda-db.mv.db
+**/.settings
+**/target
